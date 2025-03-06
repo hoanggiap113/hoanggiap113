@@ -1,16 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+![Uploading Nft Coding GIF.gif…]()
 
 ###
 
 <p align="center">My name is Giap and I'm a student, from Viet Nam</p>
-
-
-
-
-![Uploading Nft Coding GIF.gif…]()
-
-
-
 
 ###
 
@@ -61,10 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-
-
-
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/hoanggiap113/hoanggiap113/output/snake.svg" alt="Snake animation" />
 
+###
