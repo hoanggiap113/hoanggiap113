@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-![Uploading Nft Coding GIF.gif…]()
+![Nft Coding GIF](https://github.com/user-attachments/assets/f0f69ac8-faf9-4cf3-b1af-893ac37221d5)
+
 
 ###
 
