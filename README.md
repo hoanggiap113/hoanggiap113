@@ -4,6 +4,14 @@
 
 <p align="center">My name is Giap and I'm a student, from Viet Nam</p>
 
+
+
+
+![Uploading Nft Coding GIF.gif…]()
+
+
+
+
 ###
 
 <h2 align="left"></h2>
@@ -55,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 
 
-  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
 </div>
 
 
