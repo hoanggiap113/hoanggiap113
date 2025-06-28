@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-![Nft Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmeXNhOTJtbWpqbzI5Y2dvOG9kMnl0M2tjNWo0M3Rja2szbGRpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmeXNhOTJtbWpqbzI5Y2dvOG9kMnl0M2tjNWo0M3Rja2szbGRpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Nft Coding" width="300"/>
 
 
 ###
